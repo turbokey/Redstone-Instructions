@@ -1,0 +1,10 @@
+﻿1) Roy pit 4x4. Depth - 2 blocks
+2) Place a stove, 1 distributor, 2 hoppers, connected to it, and a block. The stove fuel load!
+3) Put the sheet music unit and configure it on a high note. Putting all comparator, 2 repeater at the 1 and delay Redstone dust
+4) Above the stove place a funnel
+5) Building a floor ...
+6) and the wall ...
+7) Place a 4 iron manhole in this way
+8) Rear set 2 lever and activate them
+9) It should look like this
+10) Sitting down, set the picture. To activate simply throw raw meat in the microwave

@@ -1,0 +1,21 @@
+﻿1) Building 2 frame 5x5 and remove blocks in the corners
+2) Set the bottom 3 sticky piston
+3) Set the adhesive 6 on each side of the piston (3 on each side) and a top
+4) At the bottom at a distance of 2 units at the right edge of the design build of 2 ejector (lower is turned up), buttons, and funnel the comparator. Put any object in the upper distributor and press
+5) Put the next block with two Redstone torches and click on the button. Torch should go
+6) Remove the extra blocks. Put the left of the block with distributors Redstone dust. Next to install an ordinary piston
+7) Put the unit with the lever
+8) On the other hand put the 2 sensor update unit and a conventional piston, push the button. Importantly, the sensors fixed to update update blocks from the glass side. Glass put it is not necessary
+9) Unit 3 and 2 of the repeater delay 3 and 4
+10) side adding a block, put the sticky piston, connect it to the repeater delay and 4 Acceding red stone block
+11) Add the 2 blocks, 4 repeater delay and Redstone Torch. Push the button again
+12) Install the ejector, connect the funnel to it, put in a distributor of any item. We place another 3 blocks, 2 red plume, and a comparator
+13) Put the piston, redstone dust and repeater delay 1. Above the piston unit set with red torch
+14) Put the 3 blocks and 3 repeater delay 2
+15) set above another 5 blocks and 2 repeater delay 2, Redstone. The following post updates block sensor aimed at an activated piston. Next put a sticky piston unit Redstone
+16) Add the 3 more repeater unit 3 and a delay of 2, 4 and 2 (left)
+17) Put 3 block
+18) are placed side 5 blocks, 1 semiblock and join Redstone dust
+19) is carried out on the other side of Redstone, adding 5 units
+20) Use the 9 more blocks
+21) Everything is ready!

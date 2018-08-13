@@ -1,0 +1,14 @@
+﻿1) Put the ordinary pistons, as in the screenshot. Total required 42 piston
+2) Put the unit. In it we place Redstone dust under it - Redstone Torch
+3) Place a distributor, above it - the repeater delay 1, followed by - block with redstone dust
+4) Building a signal generator
+5) Place a 6 sensors upgrade units
+6) On 3 of them put a repeater delay 1. Close to put the rest of the block halves and place the Redstone Dust
+7) Add the 3 blocks and 3 semiblock. On them we place Redstone Dust
+8) Connect all below
+9) Place a repeater delay 1, and Redstone Torch Redstone Dust
+10) connect the rear lower pistons
+11) Add the subsidiary blocks
+12) and connected all pistons
+13) Making of tree height limiter semiblock
+14) Put a distributor in the bone dust and push the lever. Next to the distributor planting a sapling tree. It automatically grow and moves the pistons

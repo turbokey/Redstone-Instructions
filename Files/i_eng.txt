@@ -1,0 +1,19 @@
+﻿1) Make the base. The lever is placed as shown in the picture: on the side of the lilac block
+2) Place 18 sticky pistons
+3) Another 3 sticky pistons are placed next to the lever. Everywhere we put redstone torches, and above the blocks to which we put these torches are building another row of blocks
+4) Above these blocks place 7 more sticky pistons directed upwards
+5) Close all this with blocks
+6) Draw a signal from the lever
+7) Building the second row. The repeat, which is closer, delay 1, and the other - 4
+8) On the other hand, we do everything the same way
+9) Draw a signal from the lever to the remaining pistons
+10) Place another block, to it conduct a signal through two repeaters (at first delay 4, for second -1) and redstone dust
+11) On the other hand, start to build as shown in the picture
+12) Do not forget about the halfblock
+13) Place redstone dust and repeaters (all have a delay of 4)
+14) Another repeater (delay 1)
+15) Place 3 sticky pistons
+16) Place 3 blocks and 2 slime blocks
+17) Building the last, fourth "wall" of blocks and obsidian. Important !: next to a block of mucus must necessarily be obsidian!
+18) Activate the lever. It should be as shown in the picture
+19) Now close the block mechanism. All is ready

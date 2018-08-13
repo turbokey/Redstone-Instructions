@@ -1,0 +1,19 @@
+﻿1) Put the sticky piston 2
+2) Build a frame from the blocks
+3) to finish building it
+4) Put the sticky piston 4
+5) Put 2 more sticky piston and 2 obsidian
+6) was added between the pistons 2 blocks. Above them, put 2 more sticky piston
+7) do make the blocks inside
+8) More 2 sticky piston
+9) Putting all Redstone
+10) Put the sensor unit and upgrade units. We connect all Redstone dust
+11) On the other hand we do the same
+12) Under the pistons on both sides put on the block Redstone
+13) Next to them, put the sticky piston
+14) Under it - upgrade the sensor unit (exactly as in the screenshot)
+15) Next to the conventional piston gauge set
+16) All of this is done from the other side
+17) Place a lever, 2 blocks and 4 repeater with delay
+18) At the bottom also put 4 blocks, they place the Redstone Dust
+19) The door is ready. When closed it can not be distinguished from the wall

@@ -1,0 +1,13 @@
+﻿1) Digs 4x4 pit having a depth of 2 units
+2) Put the 2 blocks and iron door
+3) We put on each other 2 ejection, remove the unit and place 1 Redstone Torch
+4) The lower ejector connect the funnel to it connect one more and one more on top of it
+5) Put 1 unit, and a comparator 2 Redstone Dust
+6) Put 1 more comparator to the lower ejector unit and connect it through to the torch
+7) Install another 2 block and the repeater delay 1
+8) Put the unit with the button
+9) Put the key in the ejector
+10) Now we take any 4 block and rename them in different ways on the anvil, so that they did not develop
+11) Take the 19 papers and call them our password (for example 123)
+12) In a funnel, which is above the red torch, folding 4 and rename the block 18 securities
+13) The rest of the paper will be the key to the door. To open the door it is necessary to throw in the hopper. To close the door, click on the button on the ejector. And we press the button 2 times to get the paper back.

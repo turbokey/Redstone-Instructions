@@ -1,0 +1,9 @@
+﻿1) make legs
+2) Add the sticky piston 2 and 2 slime blocks
+3) Adding 2 more mucus and block 2 updates the sensor units, the up
+4) On the front of the hand do
+5) Potsentru add 2 blocks of mucus and one sensor upgrade units
+6) Rear just add 4 block mucus and sensor upgrade units
+7) to build additional structure to run the robot
+8) Put 2 conventional piston, 2 blocks from Redstone, 2 repeater (one with a delay of 3 other - 1), and Redstone button
+9) Click on the button and the robot destroyer ready

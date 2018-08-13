@@ -1,0 +1,6 @@
+﻿1) Build a design
+2) Place a Redstone dust and repeater 2 delayed 4 each
+3) Put the 2 normal piston and the piston 1 sticky
+4) Add the 3 blocks. Above the piston set Chest
+5) Place a 1 Redstone torch unit and the button
+6) Close the block the whole mechanism. Hidden chest ready

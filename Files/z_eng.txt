@@ -1,0 +1,16 @@
+﻿1) Construct the preform of the two doors, levers and 6 different blocks
+2) On the other hand dig a pit depth of 3x5 blocks and the block 3
+3) Near a swarm of the same hole, but the depth of 1 unit
+4) a lever put Redstone torches
+5) It will be shown how to build a door with a combination of the arms, but it can be changed if desired
+6) Use the 12 blocks
+7) And 9 more blocks
+8) Another 12 units, we need to finish the design
+9) Put the repeater 2 and 1 red torch. Putting all Redstone dust, as shown in the picture
+10) On the front of the set 2 Redstone torch under the doors
+11) Spending Redstone
+12) 3 Put the repeater delay 1
+13) Put more 3 repeaters, 1 Redstone Torch and connect everything with dust Redstone 5
+14) More 2 1 torch and redstone dust
+15) Put the red torch and the door is ready!
+16) Now, how to make your password. To leverage the top row, if necessary, the lever has been omitted in the scheme for him to put a repeater, and if raised red torch. For the bottom row: Over lowered - Redstone dust raised for - Red Torch

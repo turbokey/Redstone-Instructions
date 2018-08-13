@@ -1,0 +1,5 @@
+﻿1) Build a structure of 8 blocks
+2) Add the dust Redstone, Redstone Torch and repeater delayed 4
+3) Add the sticky piston and 9 mucus blocks
+4) Make the frame of obsidian
+5) Put the lever on the block, which comes close to Redstone dust and enjoy the bounds

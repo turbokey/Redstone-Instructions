@@ -1,0 +1,6 @@
+﻿1) Put the sticky piston 8
+2) Add the 4 steps, 4 blocks and 2 semiblock
+3) Adding to the sides by 2 units, Redstone dust and Redstone torch
+4) Wire Redstone dust up to the upper piston
+5) sends the signal to lower the piston and connected to the arm
+6) All closing and obtain the original gates

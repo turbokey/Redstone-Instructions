@@ -1,0 +1,9 @@
+﻿1) Digs a pit 3x6
+2) Add the 2 blocks, 2 Redstone dust lever and 2 follower
+3) Put the 2 blocks and 2 Redstone Torch
+4) Adding 2 more repeater naprvlenie to blocks. The scheme starts
+5) Close all the blocks. Placing the ejector 2 and 2 a funnel connected to the ejector
+6) On the one hand, pour water
+7) Also pour water from the other side
+8) we place in each funnel fish
+9) To switch off the aquarium, push the lever

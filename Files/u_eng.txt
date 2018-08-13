@@ -1,0 +1,4 @@
+﻿1) Building a base
+2) Make a lantern wall
+3) Make scheme of repeaters and Redstone Dust
+4) Fast turn on and off lever. Lighthouse starts
