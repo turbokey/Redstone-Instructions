@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="A_instruction">
+        <item>1)Build the base of the door. The mechanism takes 3 blocks in depth</item>
+        <item>2)Place 4 sticky pistons</item>
+        <item>3)And 2 more sticky pistons</item>
+        <item>4)On the other side do the same</item>
+        <item>5)Add 4 blocks</item>
+        <item>6)Bring the signal to the pistons using redstone dust and a repeater with a delay of 3 ticks</item>
+        <item>7)On the other side do the same</item>
+        <item>8)Place the redstone dust from below</item>
+        <item>9)Using 5 blocks, 1 slab and redstone dust, conduct a signal to the top</item>
+        <item>10)Add a lever, a redstone torch and some dust to control the door</item>
+        <item>11)Hide everything with blocks</item>
+        <item>12)[Java Edition!]For the door to work in the Java version, change the way the signal is fed to the pistons. To do this, remove the repeater and add a separate repeater to each piston with a delay of 3 ticks</item>
+        <item>13)[Java Edition!] Similarly on the other side</item>
+        <item>14)[Java Edition!]Remove 1 redstone dust from above</item>
+    </string-array>
+    <string-array name="B_instruction">
+        <item>1)Build such a structure of 8 blocks</item>
+        <item>2)Add redstone dust, redstone torch and repeater with a delay of 4</item>
+        <item>3)Add a sticky piston and 9 slime blocks</item>
+        <item>4)Make a frame of obsidian</item>
+        <item>5)Put the lever over the block, to which the redstone dust is close and enjoy jumping!</item>
+    </string-array>
+    <string-array name="C_instruction">
+        <item>1)Put 8 sticky pistons</item>
+        <item>2)Add 4 stairs, 4 blocks and 2 slabs</item>
+        <item>3)Add 2 blocks on the sides, redstone dust and redstone torch</item>
+        <item>4)Carry redstone dust up to the upper piston</item>
+        <item>5)Conduct a signal to the lower piston and connect to the lever</item>
+        <item>6)Close everything and get the original gate</item>
+    </string-array>
+    <string-array name="D_instruction">
+        <item>1)Dig out a hole 4X3 and a depth of 3 blocks</item>
+        <item>2)Place 2 blocks and a chest. Above it place 2 hoppers connected to it</item>
+        <item>3)Add a comparator, repeater with a delay of 1 tick. Next place 1 block with a redstone torch on it</item>
+        <item>4)Under the block - redstone dust</item>
+        <item>5)Add a block with a redstone torch, a repeater with a delay of 1 tick and another block with a redstone dust on it</item>
+        <item>6)Add 2 blocks and a redstone torch between them</item>
+        <item>7)Place a block of redstone and redstone dust near the comparator</item>
+        <item>8)Place 7 blocks. Put on them 4 redstone dust, a repeater with a delay of 1 tick and a comparator. Click on the comparator!</item>
+        <item>9)In the lower hopper (above the chest) put 64 objects (currency) and 4 beds</item>
+        <item>10)Through 1 block above the top hopper, place the dropper and put any amount of goods there</item>
+        <item>11)Done</item>
+    </string-array>
+    <string-array name="E_instruction">
+        <item>1)Put 4 sticky pistons</item>
+        <item>2)On the pistons put 4 slime blocks, then on the slime blocks put 4 any blocks</item>
+        <item>3)Add 6 blocks, as in the picture</item>
+        <item>4)Add 3 obsidian (obsidian!)</item>
+        <item>5)Add 7 more any blocks</item>
+        <item>6)Carry out redstone dust and set 4 repeaters with delays of 3,1,3 and 3</item>
+        <item>7)Put 2 blocks of obsidian and a temporary lever, activate it</item>
+        <item>8)The elevator rises, and in the place in which he stopped, put 2 blocks of obsidian and 1 any other block</item>
+        <item>9)Remove the lever. Put the block and 2 sticky pistons</item>
+        <item>10)Carry redstone dust up</item>
+        <item>11)Put the block of redstone to the left sticky piston and 2 buttons</item>
+        <item>12)The elevator is ready for use</item>
+        <item>13)[Java Edition!]For the elevator to work in the Java edition, all the blocks highlighted in green must be raised 1 block up. In this case, the block highlighted in red must be removed</item>
+        <item>14)[Java Edition!]Connect the signal to the piston as shown in the picture</item>
+    </string-array>
+    <string-array name="F_instruction">
+        <item>1)Build such a structure</item>
+        <item>2)Place redstone dust and 2 repeaters with a delay of 4 each</item>
+        <item>3)Put 2 ordinary pistons and 1 sticky piston</item>
+        <item>4)Add 3 blocks. Above the piston put chest</item>
+        <item>5)Place 1 redstone torch, block and button</item>
+        <item>6)Close the whole mechanism with blocks. The hidden chest is ready</item>
+    </string-array>
+    <string-array name="G_instruction">
+        <item>1)Put the pistons, as in the screenshot. A total of 42 pistons are required.</item>
+        <item>2)Put the block. On it put redstone dust, under it is a redstone torch</item>
+        <item>3)Place the dispenser, above it - the repeater with a delay of 1, after it - the block with redstone dust</item>
+        <item>4)Build a signal generator</item>
+        <item>5)Place 6 block update detectors</item>
+        <item>6)On 3 of them put repeaters with a delay of 1. Next to the rest we put half blocks and place redstone dust</item>
+        <item>7)Add 3 blocks and 3 slabs. Put redstone dust on them</item>
+        <item>8)Connect all from below</item>
+        <item>9)Place the repeater with a delay of 1, redstone torch and redstone dust</item>
+        <item>10)Connect the lower pistons at the back</item>
+        <item>11)Add auxiliary blocks</item>
+        <item>12 And connect all the pistons</item>
+        <item>13)Make a tree height limiter from a slab</item>
+        <item>14)Put bone meal in the dispenser and press the lever. Next to the dispenser plant a tree seedling.</item>
+    </string-array>
+    <string-array name="H_instruction">
+        <item>1)Swarm the 4x4 pit. Depth - 2 blocks</item>
+        <item>2)Place the furnace, 1 dispenser, 2 funnels connected to it, and the unit. We load fuel in the furnace!</item>
+        <item>3)Put a note block and tune it to a high note. Connect all with a comparator, 2 repeaters for a delay of 1 and with redstone dust</item>
+        <item>4)Place a hopper over the furnace</item>
+        <item>5)Build a floor…</item>
+        <item>6) … and the wall</item>
+        <item>7)Place 4 iron trapdoors in this way</item>
+        <item>8)Place 2 levers at the back and activate them</item>
+        <item>9)It should turn out like this</item>
+        <item>10)Sneaking, set the painting. To activate, just throw raw meat into the microwave</item>
+    </string-array>
+    <string-array name="I_instruction">
+        <item>1)Make the base. Place the lever as shown in the image: on the side of the lilac block</item>
+        <item>2)Place 18 sticky pistons</item>
+        <item>3)3 more sticky pistons are placed next to the lever. Put redstone torches, and above the blocks on which we placed these torches we build another row of blocks</item>
+        <item>4)Above these blocks we place another 7 sticky pistons pointing up</item>
+        <item>5)Close it all with blocks</item>
+        <item>6)Carry a signal from the lever</item>
+        <item>7)Build the second row. Repeating, which is closer, has a delay of 1, while the other has 4</item>
+        <item>8)On the other side do everything the same way</item>
+        <item>9)Carry a signal from the lever to the remaining pistons</item>
+        <item>10)Place one more block, conduct a signal to it through two repeaters (the first has a delay of 4, the second has 1) and redstone dust</item>
+        <item>11)On the other side begin to build as shown in the image</item>
+        <item>12)Do not forget about the slab</item>
+        <item>13)Place redstone dust and repeaters (all have a delay of 4)</item>
+        <item>14)Another repeater (delay 1)</item>
+        <item>15)Place 3 sticky pistons</item>
+        <item>16)Place 3 blocks and 2 slime blocks</item>
+        <item>17)Build the last, fourth “wall” of blocks and obsidian. Important!: Obsidian must be next to the slime block!</item>
+        <item>18)Activate the lever. It should turn out as shown in the image</item>
+        <item>19)Now close the blocks with the scheme. All is ready</item>
+    </string-array>
+    <string-array name="J_instruction">
+        <item>1)Make the floor</item>
+        <item>2)Place 3 blocks and armor stand with a diamond helmet</item>
+        <item>3)Using the piston, lower the block down</item>
+        <item>4)Similarly, lower the stairs</item>
+        <item>5)It should turn out like this</item>
+        <item>6)Add a button and an iron trapdoor</item>
+        <item>7)At the back place 2 command blocks as shown in the picture: the upper one is directed down</item>
+        <item>8)Configure the top command block. Set the type of block "Cycle"</item>
+        <item>9)Enter the command "playsound ambient.weather.rain @p ~ ~ ~ 1 3" into it</item>
+        <item>10)Get up on the trapdoor and enter the command "/setworldspawn". Remember the coordinates</item>
+        <item>11)In the lower command block, set the block type to "Chain" and the redstone parameter: "Always works". Enter the command "kill @e[x=(your x),y=(your y>),z=(your z),type=item,r=2]"</item>
+        <item>12)Done! If you put items in the toilet and press the button, then all items will be washed off and a sound will appear. You can also enter the command "/gamerule commandblockoutput false" so that messages from command blocks are not displayed in the chat</item>
+    </string-array>
+    <string-array name="K_instruction">
+        <item>1)Make legs</item>
+        <item>2)Add 2 sticky pistons and 2 slime blocks</item>
+        <item>3)Add 2 more slime blocks and 2 block update detectors pointing up</item>
+        <item>4)From the front we make hands</item>
+        <item>5)In the center add 2 slime blocks and one block update detector</item>
+        <item>6)In the back, also add 4 slime blocks and one block update detector</item>
+        <item>7)Put additional blocks to run the robot</item>
+        <item>8)Put 2 pistons, 2 blocks of redstone, 2 repeaters (one with a delay of 3, the other 1), a redstone dust and a button</item>
+        <item>9)Click on the button and the robot destroyer is ready</item>
+    </string-array>
+    <string-array name="R_instruction">
+        <item>1)Put 4 block update detectors and a slime block</item>
+        <item>2)Put on them 4 pistons and another slime block</item>
+        <item>3)Through the block we put the block update detector directed upwards and the sticky piston</item>
+        <item>4)Add 4 more slime blocks and 4 block update detectors</item>
+        <item>5)Put 4 dispensers and load fireballs there</item>
+        <item>6)Launch the rocket by pressing the  flint and steel on the central block update detector</item>
+    </string-array>
+    <string-array name="U_instruction">
+        <item>1)Build the foundation</item>
+        <item>2)Make the walls of the lantern</item>
+        <item>3)Make a circuit of repeaters and redstone dust</item>
+        <item>4)Quickly turn the lever on and off. The lighthouse starts to work</item>
+    </string-array>
+    <string-array name="V_instruction">
+        <item>1)Make a base. Connect a hopper to the chest</item>
+        <item>2)Place the slab and dispenser. Build walls</item>
+        <item>3)Make such a circuit. Be sure to click on the comparator</item>
+        <item>4)Connect and activate the lever</item>
+        <item>5)Connect hoppers to the dispenser</item>
+        <item>6)Pour lava. Continue to make walls</item>
+        <item>7)Finish the mechanism body</item>
+        <item>8)Plant chickens</item>
+        <item>9)Press the lever, and the mechanism starts to work</item>
+    </string-array>
+    <string-array name="W_instruction">
+        <item>1)Swarm 3x6 pit</item>
+        <item>2)Add 2 blocks, 2 dust redstones, a lever and 2 repeaters</item>
+        <item>3)Put 2 blocks and 2 redstone torches</item>
+        <item>4)Add 2 more repeaters directed to the blocks. Circuit starts to work</item>
+        <item>5)Close everything in blocks. Place 2 droppers and 2 hoppers connected to the droppers</item>
+        <item>6)On the one side we pour water</item>
+        <item>7)Also pour water on the other side</item>
+        <item>8)Put fish in each hopper</item>
+        <item>9)To turn off the aquarium, press the lever</item>
+    </string-array>
+    <string-array name="X_instruction">
+        <item>1)Swarm a 4x4 pit having a depth of 2 blocks</item>
+        <item>2)Put 2 blocks and an iron door</item>
+        <item>3)Put 2 droppers on top of each other, remove the block and place 1 redstone torch</item>
+        <item>4)Connect a hopper to the lower dropper, connect one more to it and one more to it from above</item>
+        <item>5)Put 1 block, a comparator and 2 redstone dust</item>
+        <item>6)Put 1 more comparator to the lower dropper and through the block connect it to the torch</item>
+        <item>7)Install 2 more blocks and a repeater with a delay of 1</item>
+        <item>8)Put the block with the button</item>
+        <item>9)Put the button on the dropper</item>
+        <item>10)Now take any 4 blocks and rename them differently on the anvil so that they do not add up</item>
+        <item>11)Take 19 papers, give them a name - password (for example 123)</item>
+        <item>12)In the hopper, which is located above the redstone torch, add 4 renamed blocks and 18 papers</item>
+        <item>13)The remaining paper will be the key for the door. To open the door, you need to throw it into the hopper. To close the door, click on the button above the dropper. And press 2 times on the button to get the paper back.</item>
+    </string-array>
+    <string-array name="Y_instruction">
+        <item>1)Build such a structure</item>
+        <item>2)Put 2 blocks, redstone dust, a repeater with a delay of 4 and 2 note blocks. On the first press 12 times, and on the second-8</item>
+        <item>3)Complete the wall with the door and you are done!</item>
+    </string-array>
+    <string-array name="Z_instruction">
+        <item>1)Build a blank of two doors, 6 levers and various blocks</item>
+        <item>2)On the other side dig a pit of 3x5 blocks and a depth of 3 blocks</item>
+        <item>3)Nearby dig the same hole, but 1 block deep</item>
+        <item>4)For leverage put redstone torches</item>
+        <item>5)Here it will be shown how to build a door with this combination of levers, but it can be changed if desired</item>
+        <item>6)Use 12 blocks</item>
+        <item>7)And 9 more blocks</item>
+        <item>8)You need 12 more blocks to complete the construction</item>
+        <item>9)Put 2 repeaters and 1 red torch. Connect all with the redstone dust, as shown in the picture</item>
+        <item>10)On the front side we put 2 redstone torches under the doors</item>
+        <item>11)Carry out redstone</item>
+        <item>12)Put 3 repeaters with a delay of 1</item>
+        <item>13)Put 3 more repeaters, 1 redstone torch and connect everything with 5 redstone dust</item>
+        <item>14)2 more torches and 1 redstone dust</item>
+        <item>15)Put a red torch and the door is ready!</item>
+        <item>16)Now about how to make your password. To do this, put a repeater, and if it is raised - a redstone torch. For the bottom row: behind the lowered - redstone dust, behind the raised - red torch</item>
+    </string-array>
+</resources>

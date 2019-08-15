@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9B3030</color>
+    <color name="colorPrimaryDark">#8B0000</color>
+    <color name="colorAccent">#FFD500</color>
+
+    <color name="colorBackground">#ffdddd</color>
+    <color name="colorBorderBackground">#ffc8c8</color>
+
+    <color name="menuBackgroundColor">#864646</color> <!-- Средний цвет splash -->
+    <color name="menuTextColor">#FFFFFF</color>
+
+    <color name="textColor">#45433e</color>
+</resources>

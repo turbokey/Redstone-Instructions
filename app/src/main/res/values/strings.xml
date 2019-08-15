@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Redstone Mechanisms</string>
+    <string name="title_activity_main">Home</string>
+    <string name="action_settings">Privacy policy</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="A_instruction_label">Piston door 2x2</string>
+    <string name="B_instruction_label">Trampoline</string>
+    <string name="C_instruction_label">Creeper piston door</string>
+    <string name="D_instruction_label">Vending machine</string>
+    <string name="E_instruction_label">Elevator</string>
+    <string name="F_instruction_label">Hidden chest</string>
+    <string name="G_instruction_label">Semi-automatic wood farm</string>
+    <string name="H_instruction_label">Microwave</string>
+    <string name="I_instruction_label">Horizontal piston door 3x3</string>
+    <string name="J_instruction_label">Toilet bowl with sound</string>
+    <string name="K_instruction_label">Destroyer robot</string>
+    <string name="R_instruction_label">Rocket</string>
+    <string name="U_instruction_label">Lighthouse</string>
+    <string name="V_instruction_label">Automatic meat farm</string>
+    <string name="W_instruction_label">Aquarium</string>
+    <string name="X_instruction_label">Door with key card</string>
+    <string name="Y_instruction_label">Door bell</string>
+    <string name="Z_instruction_label">Door with levers password</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_tutorials">Tutorials</string>
+    <string name="menu_about">About</string>
+    <string name="category_last_tutorial">Last tutorial</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_site">Our website</string>
+
+    <string name="cancel_answer">Cancel</string>
+    <string name="permission_needed">For the application to work, you must provide these permissions!</string>
+    <string name="grant_perm_button">Provide</string>
+    <string name = "internet_connection_error"> No connection to the Internet </string>
+    <string name = "internet_connection_error_title"> Launch is not possible </string>
+    <string name = "close_app">Close</string>
+    <string name="about">About</string>
+    <string name="version">Version: %s</string>
+    <string name="menu_check_mechs">Check the functionality of the mechanisms</string>
+    <string name="check_mechs_text">Check the functionality of the mechanisms in Minecraft Pocket Edition (Bedrock Edition). To do this, click on the \"Copy Map\" button and run the copied file on the device with the game installed.</string>
+    <string name="home_text">The mechanics of the redstone in Minecraft Bedrock Edition differ from it in the Java Edition of the game, so at the moment it is quite difficult to find instructions for creating really working redstone mechanisms in Minecraft Bedrock Edition.\n\nThis application contains <u>the most interesting</u>, and most importantly, <u>working</u> circuits. Each instruction is step-by-step; a picture and description are attached to each step. Some instructions also describe <u>how to make this redstone machinism work in the Java Edition</u>.\n\nInstructions will be supplemented in future updates!</string>
+    <string name="copy_map_btn">Copy map</string>
+    <string name="mc_map_path">/Redstone Mechanisms/</string>
+    <string name="mc_map_name">Redstone Mechanisms.mcworld</string>
+    <string name="copy_error">Copy error: %s</string>
+    <string name="copy_succesful">Map copied to %s</string>
+    <string name="copy_succesful_snackbar">Map copied</string>
+    <string name="open_btn">Open</string>
+    <string name="supported_version" translatable="false">1.1.0.0</string>
+    <string name="group_all">All</string>
+    <string name="group_command_blocks">Based on command blocks</string>
+    <string name="group_piston_doors">Piston doors</string>
+    <string name="group_automatic_farms">Automatic farms</string>
+    <string name="group_machines">Machines</string>
+    <string name="group_for_home">For home</string>
+    <string name="group_protection">Protection</string>
+    <string name="group_other">Other</string>
+    <string name="open_inst_btn">Open</string>
+    <string name="view_all_btn">View all</string>
+    <string name="mcpe_only">Minecraft Bedrock Edition only</string>
+    <string name="search_hint">Search</string>
+</resources>
