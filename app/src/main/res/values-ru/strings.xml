@@ -31,7 +31,7 @@
     <string name="cancel_answer">Отмена</string>
     <string name="permission_needed">Для работы приложения необходимо предоставить данные разрешения!</string>
     <string name="grant_perm_button">Предоставить</string>
-    <string name="internet_connection_error">Отсутствует подключение к Интернету</string>
+    <string name="internet_connection_error">Необходимо включить WiFi или мобильные данные, чтобы приложение работало</string>
     <string name="internet_connection_error_title">Запуск невозможен</string>
     <string name="close_app">Закрыть</string>
     <string name="about">О программе</string>

@@ -33,7 +33,7 @@
     <string name="cancel_answer">Cancel</string>
     <string name="permission_needed">For the application to work, you must provide these permissions!</string>
     <string name="grant_perm_button">Provide</string>
-    <string name = "internet_connection_error"> No connection to the Internet </string>
+    <string name = "internet_connection_error">You need to enable WiFi or mobile data for the application to work</string>
     <string name = "internet_connection_error_title"> Launch is not possible </string>
     <string name = "close_app">Close</string>
     <string name="about">About</string>

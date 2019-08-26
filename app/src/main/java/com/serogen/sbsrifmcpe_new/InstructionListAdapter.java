@@ -2,6 +2,7 @@ package com.serogen.sbsrifmcpe_new;
 
 import android.app.Activity;
 import android.content.Context;
+import android.util.DisplayMetrics;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -85,6 +86,18 @@ public class InstructionListAdapter extends ArrayAdapter<InstructionItemFromInst
             }
         });
 
+        DisplayMetrics displayMetrics = new DisplayMetrics();
+        context.getWindowManager().getDefaultDisplay().getMetrics(displayMetrics);
+        final float scale = getContext().getResources().getDisplayMetrics().density;
+        int pixels = (int) (50 * scale + 0.5f);
+        int width = displayMetrics.widthPixels - pixels;
+        holder.image.getLayoutParams().height = (int)(width*0.75);
+        Picasso
+                .with(context)
+                .load(list.get(position).getImageResourceId())
+                .placeholder(R.drawable.placeholder)
+                .fit()
+                .into(holder.image);
 
         return rowView;
     }
